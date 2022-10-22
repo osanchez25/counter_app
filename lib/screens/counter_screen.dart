@@ -31,7 +31,7 @@ class _CounterScreenState extends State<CounterScreen> {
 
     return Scaffold(
         appBar: AppBar(
-          title: const Text("Counter Screen"),
+          title: const Text("Counter Screen v2"),
           elevation: 10.0,
         ),
         body: Center(
